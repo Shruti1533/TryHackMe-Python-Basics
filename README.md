@@ -102,7 +102,7 @@ print(height)
 ---
 
 ## Task 5: Logical and Boolean Operators
-![Alt text]([URL_to_your_image](https://github.com/Shruti1533/TryHackMe-Python-Basics/blob/main/logical%20and%20boolean.png))
+![Alt text](https://github.com/Shruti1533/TryHackMe-Python-Basics/blob/main/logical%20and%20boolean.png)
 
 Let’s look at a few Python code examples:
 
